@@ -18,6 +18,12 @@ const items = [{
     "subtitle": "@spcloud ",
     "image": telegram,
     "link": "https://t.me/spcloud" //Telegram Pofile 
+},
+{
+    "title": "Telegram 群组",
+    "subtitle": "@spcloudchat",
+    "image": telegram,
+    "link": "https://t.me/spcloudchat" //Telegram Pofile 
 }]
 
 export default items
