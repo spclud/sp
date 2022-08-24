@@ -15,9 +15,9 @@ const items = [{
 },
 {
     "title": "Telegram 频道",
-    "subtitle": "@heysagnik | Chat with me instantly ",
+    "subtitle": "@spcloud ",
     "image": telegram,
-    "link": "https://telegram.me/heysagnik" //Telegram Pofile 
+    "link": "https://t.me/spcloud" //Telegram Pofile 
 }]
 
 export default items
