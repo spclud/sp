@@ -8,50 +8,13 @@ import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
 
 const items = [{
-    "title": "Website",
-    "subtitle": "Look at my work!",
+    "title": "Simple Cloud",
+    "subtitle": "最新地址",
     "image": website,
-    "link": "https://sagniksahoo.codes" //your personal website or portfolio  link
+    "link": "https://www.spcloud.me/index.php" //your personal website or portfolio  link
 },
 {
-    "title": "GitHub",
-    "subtitle": "@heysagnik | 🏡 to all my open-source projects",
-    "image": github,
-    "link": "https://github.com/heysagnik" //Github Profile link
-},
-{
-    "title": "Instagram",
-    "subtitle": "@heysagnik |  Shots of my life 🙂",
-    "image": instagram,
-    "link": "https://instagram.com/heysagnik" //instagram profile link 
-},
-{
-    "title": "Twitter",
-    "subtitle": "@heysagnik | 😉",
-    "image": twitter,
-    "link": "https://twitter.com/heysagnik"// twitter profile link 
-},
-{
-    "title": "LinkedIn",
-    "subtitle": "Know more about my profession 👨‍💼",
-    "image": linkedin,
-    "link": "https://www.linkedin.com/in/heysagnik/" // linkedin
-},
-{
-    "title": "YouTube",
-    "subtitle": "CODER SAGNIK | Official channel of mine",
-    "image": youtube,
-    "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"//youtube channel link 
-},
-
-{
-    "title": "Dribbble",
-    "subtitle": "@virtuonic | shots of dezigns ",
-    "image": dribbble,
-    "link": "https://dribbble.com/virtuonic" // Dribbble profile link 
-},
-{
-    "title": "Telegram",
+    "title": "Telegram 频道",
     "subtitle": "@heysagnik | Chat with me instantly ",
     "image": telegram,
     "link": "https://telegram.me/heysagnik" //Telegram Pofile 
